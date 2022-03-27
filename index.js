@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs")
-const generateMarkdown = require("./utils/generateMarkdown").default;
+const generateMarkdown = require('./utils/generateMarkdown');
 // TODO: Create an array of questions for user input
 const questions = [
         {
@@ -14,20 +14,33 @@ const questions = [
             name: "description"
         },{
             type: "input",
-            message: "What is your GitHub user name?",
-            name: "userName"
+            message: "Please discribe how to properly use your application.",
+            name: "usage"
         },{
             type: "input",
-            message: "Please give your GitHub profile link.",
-            name: "GitHub"
+            message: "Please walkthrough the steps to install your project.",
+            name: "installation"
         },{
+            type: "input",
+            message: "Provide examples of tests run throughs on your application.",
+            name: "tests"
+        },{
+            
             type: "input",
             message: "What is your email?",
             name: "email"
         },{
+            type: "input",
+            message: "What is your GitHub user name?",
+            name: "userName"
+        },{
+            type: "input",
+            message: "Please list any outside contributions.",
+            name: "contributions"
+        },{
             type: "list",
-            name: "license",
             message: "Please select which license you would like to use.",
+            name: "license",
             choices : [
                 "APACHE 2.O",
                 "Boost",
