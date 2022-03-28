@@ -34,9 +34,6 @@ node index.js
 
 * After you have input something for all the prompts, it will create a README.md file in your repository.
 
-## Credits
-
-Stephen Elliott
 
 ## License
 
