@@ -4,7 +4,7 @@
 
 ## Description
 
-Dynamically generate a professional README.md file using Node.js 
+* Dynamically generate a professional README.md file using Node.js with the inquirer.js package.
 
 ## Table of Contents
 * [Description](#description)
@@ -46,6 +46,11 @@ This app is covered by a MIT license. For more information please checkout this 
 
 
 ## Tests
+
+
+
+https://user-images.githubusercontent.com/100049940/160324752-f199fab0-5569-4897-8722-21082f6325e4.mp4
+
 
 
 
