@@ -111,7 +111,8 @@ ${data.contributions}
 ${data.tests}
 
 ## Questions
-- Github: https://github.com/${data.userName}
+Feel free to contact me at:
+- Github: [github.com/${data.username}]https://github.com/${data.userName}
 - Email: ${data.email}
 
 `
