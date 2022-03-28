@@ -27,7 +27,7 @@ Run the application in your terminal by entering this command: node index.js
 
 ## Credits
 
-undefined
+Stephen Elliott
 
 ## License
 
