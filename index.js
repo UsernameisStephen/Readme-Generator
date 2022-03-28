@@ -14,25 +14,16 @@ const questions = [
             name: "description"
         },{
             type: "input",
-            message: "Please discribe how to properly use your application.",
-            name: "usage"
-        },{
-            type: "input",
             message: "Please walkthrough the steps to install your project.",
             name: "installation"
         },{
             type: "input",
-            message: "Provide examples of tests run throughs on your application.",
+            message: "Please discribe how to properly use your application.",
+            name: "usage"
+        },{
+            type: "input",
+            message: "Please demonstrate tests of your application's functionality.",
             name: "tests"
-        },{
-            
-            type: "input",
-            message: "What is your email?",
-            name: "email"
-        },{
-            type: "input",
-            message: "What is your GitHub user name?",
-            name: "userName"
         },{
             type: "input",
             message: "Please list any outside contributions.",
