@@ -18,12 +18,16 @@ Dynamically generate a professional README.md file using Node.js
 
 ## Installation
 
-First, you will need to install Node.js. Then you will need to install the Inquirer package by inputting the following into your terminal: npm i inquirer
-
+First, you will need to install Node.js. Then you will need to install the Inquirer package by inputting the following into your terminal: 
+```
+npm i inquirer
+```
 ## Usage
 
-Run the application in your terminal by entering this command: node index.js
-
+Run the application in your terminal by entering this command: 
+```
+node index.js
+```
 
 ## Credits
 
