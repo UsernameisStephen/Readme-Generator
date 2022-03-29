@@ -92,10 +92,6 @@ ${data.installation}
 ${data.usage}
 
 
-## Credits
-
-${data.credits}
-
 ## License
 
 ${renderLicenseSection(data.license)}
@@ -111,10 +107,7 @@ ${data.contributions}
 ${data.tests}
 
 ## Questions
-Feel free to contact me at:
-- Github: [github.com/${data.username}]https://github.com/${data.userName}
-- Email: ${data.email}
-
+If you have any questions, feel free to contact me at ${data.email} or visit my projects at https://github.com/${data.github}.
 `
 }
 module.exports = generateMarkdown;
