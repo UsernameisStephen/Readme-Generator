@@ -28,7 +28,7 @@ npm i inquirer
 ```
 node index.js
 ```
-* You be prompted by a series of questions asking for your input:
+* You will be prompted by a series of questions asking for your input:
 
 <img width="428" alt="readmequestions" src="https://user-images.githubusercontent.com/100049940/160320077-c4b698df-47a8-4439-9936-07ea352cc858.png">
 
